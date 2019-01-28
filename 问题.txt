@@ -1,0 +1,1 @@
+1.application.properties配置文件里面mybatis.config-location=classpath:mybatis-config.xml设置与不设置对数据库连接不造成影响
